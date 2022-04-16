@@ -1,7 +1,5 @@
 # odin-recipes
 
-My first project of The Odin Project.
+My first project of [The Odin Project](https://www.theodinproject.com/).
 
-Recipes.
-
-Demonstration of basic HTML skills.
+Demonstration of basic HTML skills, file structure, and git usage.
